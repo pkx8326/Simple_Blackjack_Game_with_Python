@@ -10,7 +10,5 @@ This is a simple Blackjack card game with Python. It allows only 2 players with 
 7. Any card from 2 - 10 has its 'face value' points.
 8. Jack, Queen, King, each counts as 10 points.
 9. Ace counts as 1 or 11, depending on the total points.
-10. Anyone reaches 21 point first is the winner.
-11. Anyone with point above 21 loses the game.
 
 This set of Python code feature the use of randomization with weightde probability, loop, if-else conditioning, list, and function. Although it's only a 2-player simple card game, the code is quite long and may not be most stream-lined. However, the code works fine. It also gives you a summary of how many games you've played and how many times you've won or lost, in a grammartically correct way.
